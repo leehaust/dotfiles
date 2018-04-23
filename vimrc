@@ -1,6 +1,7 @@
 set ruler
 set number
 set nocompatible
+set mouse=a
 
 "iPython
 " enble  syntax highlighting
